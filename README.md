@@ -1,88 +1,145 @@
-<h1 align="center">BELTAH-XBOT</h1>
-<p align="center">  
+<h1  align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3500&pause=1500&color=0AFFB5&center=true&vCenter=true&width=1000&lines=🤖+BELTAHBOT-MD+IS+ALIVE!;🔥+The+Ultimate+Offline+WhatsApp+Bot;🚀+Powered+by+Tamax+and+AI+Triforce!;" alt="BeltahBot Typing Header" />
+</h1>
 
-***
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS IS +BELTAH-XBOT;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+BELTAH+TECH;RELEASED+03.01.2025" alt="Typing SVG" /></a>
- 
-**BELTAH XBOT NEW LOOK**
-
-<table>
-  <tr>
-    <td>MENU STYLE</td>
-    <td>MP3 PLAYER</td>
-  </tr>
-  <tr>
-    <td><a href="https://chat.whatsapp.com/JIQos2sUdGyII4qsig72pK"><img src="https://files.catbox.moe/de6o56.jpg" width="180"</td>
-    <td><a href="https://github.com/Beltah254"><img src="https://files.catbox.moe/zfi97c.jpg" width="180"</td>
-  </tr>
-</table  
-  
-***X-BOT UPDATED FUTURES 🎁***
-
-| Commands Name               |Yes  |
-| ----------------------------| ----|
-| •AUTO REACT MESSAGE ADDED   | ✅  |
-| •AUTO REPLY MESSAGE ADDED   | ✅  |
-| •AUTO REACT STATUS ADDED    | ✅  |
-| •AUTO READ MESSAGE ADDED    | ✅  |
-| •AUTO REJECT CALL ADDED     | ✅  |
-| •AUDIO REPLY ADDED          | ✅  |
-| •AUTO SAVE CONTACTS ADDED   | ✅  |
-| •FUN CMD HACK ADDED         | ✅  |
-| •GPT ADDED                  | ✅  |
-  
-  </p>
-    <img alt="BELTAH-MD" width="700" height="300" src="https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg">
 <p align="center">
+  <img src="assets/file_0000000008d86230b547dced9065a725.png" alt="BeltahBot Banner" width="100%" />
+</p>
+
 <p align="center">
-<a href="https://github.com/Beltah254/X-BOT "><img title="Author" src="https://img.shields.io/badge/SCENE-MRM-black?style=for-the-badge&logo=github"></a>
-<p/>
+  <img src="https://img.shields.io/github/stars/IshaqIbrahim/BeltahBot-MD?style=social" />
+  <img src="https://img.shields.io/github/forks/IshaqIbrahim/BeltahBot-MD?style=social" />
+  <img src="https://img.shields.io/github/watchers/IshaqIbrahim/BeltahBot-MD?style=social" />
+</p>
+
+---
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1200&color=E4405F&center=true&vCenter=true&width=900&lines=📸+Follow+Me+On+Instagram+@TOXIC._A.N.T" alt="Follow on Instagram Animation" />
+</h2>
+
 <p align="center">
-<a href="https://github.com/Beltahtech?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Beltahtech?label=Followers&style=social"></a>
-<a href="https://github.com/Beltah254/X-BOT/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Beltah254/x-BOT?&style=social"></a>
-<a href="https://github.com/Beltah254/X-BOT 
-  /network/members"><img title="Forks" src="https://img.shields.io/github/forks/Beltah254/X-BOT?style=social"></a>
-<a href="https://github.com/Huaweike/AUTOMATIC-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Huaweike/AUTOMATIC-BOT?label=Watching&style=social"></a>
-  
+  <a href="https://instagram.com/toxic._a.n.t"><img src="https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
-#### SETTING UP PROCEDURE
+---
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/BELTAH254/X-BOT/fork) It***
+### 🌀 <b>Season 2: Tamax Rebuild</b>
 
-***2.`Get Session ID` by  [`PAIRING CODE`](https://bel-tah-codes.onrender.com/pair) or [`PAIR CODE 2`](https://bel-tah-codes.onrender.com/)***
+> _“Back stronger. Now fully offline + 100% AI!”_
 
-* - Copy The Session ID for it Will be needed during deployment*
+- 📅 <b>Release:</b> June 2025  
+- 🔁 <b>Version:</b> `v2.0.0-tamax`  
+- 📞 <b>Locked To:</b> `+254 741 819 582`  
+- 🧠 <b>Powered By:</b> `Gminae → CrewDrew → ChatGPT`  
+- 👑 <b>Maintained by:</b> `Ishaq Ibrahim`
 
-***
+---
 
-#### DEPLOY TO HEROKU 
-**1. If You Don't Have An Account On Heroku**
-    <br>
-<p align="center"><a href="https://signup.heroku.com">
- <img src="https://img.shields.io/badge/Create%20Account%20Now-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+### 💳 <b>BeltahBot Identity</b>
 
-**2. If You Have a Heroku Account**
-    <br>
-<p align="center"><a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FBeltah254%2FXBOT&template=https%3A%2F%2Fgithub.com%2FBeltah254%2FXBOT"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+| Detail         | Info                        |
+|----------------|-----------------------------|
+| 🤖 Bot Name     | BeltahBot-MD                |
+| 📱 Phone Number | +254 741 819 582            |
+| 👑 Owner        | Ishaq Ibrahim               |
+| 🔐 Mode         | Public & Secure             |
+| 🧠 AI Stack     | Gminae → CrewDrew → ChatGPT |
 
+<p align="center">
+  <a href="https://www.youtube.com/@beltahtech"><img src="https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube" /></a>
+  <a href="https://github.com/IshaqIbrahim/BeltahBot-MD/fork"><img src="https://img.shields.io/badge/Fork%20Repo-00b0e8?style=for-the-badge&logo=github" /></a>
+  <a href="https://wa.me/254741819582"><img src="https://img.shields.io/badge/Contact%20Owner-25D366?style=for-the-badge&logo=whatsapp" /></a>
+</p>
 
-***
+---
 
+### ⚙️ <b>How to Set Up on Tamax</b>
 
-### DISCLAIMER 🛡 
-- Copying or modying this script is not
-allowed! For we shall not offer any help if any error occur!
+🔧 <b>Step-by-step Setup (no code needed):</b>
 
-***
-### HELP :
-**IF you need any help**
-- [**CLICK HERE**](https:wa.me/254114141192)
+1. 📥 Clone this repository from GitHub  
+2. 📂 Enter the `BeltahBot-MD` folder  
+3. 🧩 Install all required files (auto from `package.json`)  
+4. 🚀 Run `start.sh` or use Tamax deployment button  
+5. 📲 Pair your WhatsApp number (one-time only)
 
+> That’s it! Your BeltahBot will now run offline on Tamax and wait for commands 🔥
 
-***
-### THANKS TO:
-- [***Beltah Tech 254 🇰🇪***](https://github.com/Beltahtech) For all codes and commands Addition.
+---
 
+### 🔐 <b>.env Configuration</b>
 
-© BELTAH XBOT ®03/01/2025
+Fill in the following keys inside a `.env` file:
+
+- `OWNER_NAME=Ishaq Ibrahim`  
+- `OWNER_EMAIL=isaac0maina@gmail.com`  
+- `BELTAH_PHONE=+254741819582`  
+- `BOT_NAME=BeltahBot`  
+- `CHATGPT_KEY=your_chatgpt_key_here`  
+- `GMNAE_KEY=your_gminae_key_here`  
+- `CREWDREW_KEY=your_dalle_key_here`
+
+🛑 <b>Important:</b> Don’t upload or share your `.env` file publicly!
+
+---
+
+### 🧠 <b>Tech Behind BeltahBot</b>
+
+| Tech         | Used For                                |
+|--------------|------------------------------------------|
+| Node.js      | Bot runtime engine                       |
+| Baileys      | WhatsApp API integration                 |
+| Gminae       | Intent AI / character logic              |
+| CrewDrew     | Image generation (DALL·E-style)          |
+| ChatGPT      | Final reply rendering and tone control   |
+| GIMP         | Sticker/image conversion and effects     |
+
+---
+
+### 🔥 <b>Features at a Glance</b>
+
+- ✅ Admin Tools: kick, ban, mute, promote  
+- 💬 Romantic, polite, and sheng’ chatbot replies  
+- 🖼️ Media tools: stickers, video, GIMP-enhanced images  
+- 🚫 Rate Limiting + Anti-Spam  
+- 📦 100% Offline Operation via **Tamax**  
+- 🎨 Stylish menu with image-based sections
+
+---
+
+### 🆘 <b>Support & Contact</b>
+
+Having trouble or want help setting up?
+
+👉 <b><a href="https://wa.me/254741819582">Chat with Beltah Support on WhatsApp</a></b>
+
+---
+
+### ⚠️ <b>Disclaimer</b>
+
+- 🧪 This bot is **for educational/personal use only**  
+- 🚫 Don’t resell, spam, or repost without permission  
+- 🔐 BeltahBot is protected and locked to its owner’s identity
+
+---
+
+### 🙌 <b>Special Thanks</b>
+
+- 💻 `@Ishaq Ibrahim` – Developer & Maintainer  
+- 🧠 `@adiwajshing` – Baileys Library Creator  
+- 🌀 `Tamax Team` – For backend deployment support  
+- 📸 `@TOXIC._A.N.T` – Official IG Handle – Follow for updates 🔥  
+- 💚 `You` – For supporting BeltahBot-MD & offline AI projects!
+
+---
+
+### 🔋 <b>Powered by:</b>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gminae-Intent%20AI-orange?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/CrewDrew-DALL·E%20Style-blue?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/ChatGPT-Final%20Reply%20Engine-green?style=for-the-badge&logo=chatgpt" />
+</p>
+
+> _The AI Triforce behind every BeltahBot response_ 🤖
